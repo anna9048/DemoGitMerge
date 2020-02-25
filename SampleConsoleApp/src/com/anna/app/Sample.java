@@ -17,6 +17,7 @@ public class Sample {
 		//End of program
 		
 		System.out.println("hope it will work");
+		System.out.println("oops");
 
 	}
 
