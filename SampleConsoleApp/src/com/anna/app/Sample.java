@@ -13,8 +13,15 @@ public class Sample {
 		System.out.println("Pls..Send me response");
 		System.out.println("Keep in touch");
 
-		// End of program
+		
+		
+		
+		System.out.println("hope it will work");
+		System.out.println("oops");
+		
+		System.out.println("It works perfectly");
 
+		//End of program
 	}
 
 }
