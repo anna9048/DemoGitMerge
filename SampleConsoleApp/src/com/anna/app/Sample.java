@@ -8,11 +8,12 @@ public class Sample {
 		
 		//By Arya
 		System.out.println("Hey..I got it");
-		//End of program
+		
 		
 		System.out.println("Happy to see u..");
 		System.out.println("Pls..Send me response");
-		System.out.println("Keep in tough");
+		System.out.println("Keep in touch");
+		//End of program
 
 	}
 
